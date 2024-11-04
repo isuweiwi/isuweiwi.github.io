@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://isuweiwi.github.io/CMc/sitemap_index.txt
+Sitemap: https://isuweiwi.github.io/Wqw/sitemap_index.txt
+Sitemap: https://isuweiwi.github.io/etb/sitemap_index.txt
+Sitemap: https://isuweiwi.github.io/rJD/sitemap_index.txt
